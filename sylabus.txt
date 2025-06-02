@@ -1,0 +1,33 @@
+"Unit 1:Introduction to Data Structure:
+Data Management concepts, Data types – primitive and non-primitive, Performance 
+Analysis and Measurement (Time and space analysis of algorithms-Average, best 
+andworst case analysis), Types of Data Structures- Linear & Non Linear Data 
+Structures.
+
+
+
+Unit 2:Array, Structure and Pointer:
+Representation of arrays, Applications of arrays, sparse matrix and its representation, 
+Declaration of structures, Use of structure through function, Use of Pointer variable, 
+Pointer Arithmetic, Passing parameters by reference, Pointers to Functions, Pointer to 
+Structures Dynamic memory allocation
+
+
+
+Unit 3:Linear Data Structure:
+Stack: Stack-Definitions & Concepts, Operations On Stacks, Applications of Stacks, 
+Evaluation of postfix, Polish Expression, Reverse Polish Expression And Their 
+Compilation, Recursion, Tower of Hanoi.
+Queue: Representation Of Queue, Operations On Queue, Circular Queue, Priority 
+Queue, Double Ended Queue, Applications of Queue
+Linked List: Singly Linked List, Doubly Linked list, Circular linked list,Linked 
+implementation of Stack, Linked implementation of Queue, Applications of linked 
+List(Polynomial Addition).
+
+
+
+Unit 4:Non-Linear Data Structure:
+Tree-Definitions and Concepts, Representation of binary tree, Binary tree traversal 
+(Inorder, postorder, preorder), Threaded binary tree, Binary search trees, Conversion 
+of General Trees To Binary Trees, Applications Of Trees. Some balanced tree 
+mechanism, eg. AVL trees, 2-3 trees, Height Balanced, B-Tree."
